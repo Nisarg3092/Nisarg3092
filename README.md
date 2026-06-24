@@ -8,7 +8,6 @@ Backend Developer specializing in Node.js, Express.js, and MongoDB.
 - Node.js
 - Express.js
 - MongoDB
-- Firebase
 - JWT Authentication
 - Git & GitHub
 
